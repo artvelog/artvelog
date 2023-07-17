@@ -34,10 +34,11 @@
 
 <br clear="both">
 
+<div align="center">
 - 🔭 You can work with me with upwork [Upwork](https://www.upwork.com/freelancers/~011c7d3328363112f2)
 
 - 👯 You can work with me with bionluk [Bionluk](https://bionluk.com/artvelog)
-
+</div>
 ###
 
 <br clear="both">
