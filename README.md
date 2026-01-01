@@ -28,6 +28,6 @@
 
 ###
 
-<h3 align="center">Frontend & Wordpress Developer in Turkey</h3>
+<h3 align="center">Full Stack & Wordpress Developer in Turkey</h3>
 
 ###
